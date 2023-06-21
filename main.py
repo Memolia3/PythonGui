@@ -25,7 +25,7 @@ def click(type):
 
         clickWindow.mainloop()
     elif type == "hachi":
-        print("hachiware button clicked.")
+        print("Hachiware button clicked.")
         clickWindow = Tk()
         clickWindow.title("ハチワレの説明")
         clickWindow.geometry('500x500')
@@ -46,7 +46,7 @@ def click(type):
 
         clickWindow.mainloop()
     elif type == "usa":
-        print("usagi button clicked.")
+        print("Usagi button clicked.")
         clickWindow = Tk()
         clickWindow.title("うさぎの説明")
         clickWindow.geometry('500x500')
@@ -67,7 +67,7 @@ def click(type):
 
         clickWindow.mainloop()
     elif type == "kuri":
-        print("kurimanjyu button clicked.")
+        print("Kurimanjyu button clicked.")
         clickWindow = Tk()
         clickWindow.title("くりまんじゅうの説明")
         clickWindow.geometry('500x500')
